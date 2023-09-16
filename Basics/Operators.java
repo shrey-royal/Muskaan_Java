@@ -1,6 +1,10 @@
 public class Operators {
     public static void main(String[] args) {
-        //
+        int a = 34;
+        int b = 12;
+
+        // Arithmetic Operators
+        System.out.println("The value of a + b is " + (a + b) + ".");
     }
 }
 /*
