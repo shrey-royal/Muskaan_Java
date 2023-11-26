@@ -1,0 +1,16 @@
+terminology: 
+
+> The Class that inherits the properties of another class is called subclass or derived class or child class. 
+> The class whose properties are inherited is called superclass or base class or parent class.
+
+Inheritance in Java: Inheritance is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system). The idea behind inheritance in Java is that you can create new classes that are built upon existing classes. When you inherit from an existing class, you can reuse methods and fields of parent class, and you can add new methods and fields also. Inheritance represents the IS-A relationship, also known as parent-child relationship.
+
+Types of Inheritance in Java:
+
+1. Single Inheritance: 1 parent and 1 child class
+2. Multilevel Inheritance: 1 parent, 1 child and 1 grandchild class (chain of inheritance)
+3. Hierarchical Inheritance: 1 parent and 2 child classes
+4. Multiple Inheritance: 2 parent and 1 child class (not supported using classes)
+5. Hybrid Inheritance: combination of any 2 types of inheritance (not supported using classes)
+
+Inheritance in Java is implemented using the keyword "extends".
